@@ -13,7 +13,7 @@ The interactive Tableau dashboard can be viewed [here on Tableau Public](https:/
 *  Across all seasons, the top 3 most popular items are Blouse, Jewelry, and Pants.
 *  The average rating for all products lies between 3.6 and 3.9. Similarly, the overall rating for each category lies between 3.7 to 3.8.
 *  68% of the customers are male, while 32% of customers are female.
-*  Customers are distributed all over the US, with Montana having the most (96 customers) and Kansas having the least (63 customers)
+*  Customers are present in all US states, with Montana having the most (96 customers) and Kansas having the least (63 customers)
 *  On average, both subscribed and unsubscribed users spend the same amount ($59 USD) per transaction.
 
 
